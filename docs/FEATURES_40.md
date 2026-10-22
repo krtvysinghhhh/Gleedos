@@ -9,7 +9,7 @@ This document provides a technical specification and usage guide for all **40 Vi
 1. **Multipath QUIC over Wi-Fi + 5G Bonding (`pkg/mpquic`)**: Concurrently transmits subflow chunks across multi-homed network interfaces.
 2. **eBPF / XDP Zero-Copy Kernel Ingestion (`pkg/ebpf`)**: Bypasses OS socket overhead for line-rate packet streaming.
 3. **Quantum-Resistant Kyber-1024 TLS 1.3 Key Exchange (`pkg/pqc`)**: Future-proof post-quantum cryptographic handshakes.
-4. **AI-Driven CDN Edge Latency Predictor (`pkg/cdnroute`)**: Real-time variance scoring for optimal global mirror selection.
+4. **Adaptive CDN Edge Latency Predictor (`pkg/cdnroute`)**: Real-time variance scoring for optimal global mirror selection.
 5. **Autonomous Micro-Retry Route Pivoting (`pkg/pivoting`)**: Dynamic chunk fallback without dropping TCP/QUIC connections.
 
 ---
@@ -24,10 +24,10 @@ This document provides a technical specification and usage guide for all **40 Vi
 
 ---
 
-## 🧠 3. Deep Edge AI & Multimodal Intelligence
+## 🔍 3. Deep Edge Analytics & Multimodal Extraction
 
-11. **Vision-LLM Video Summarizer (`pkg/visionllm`)**: Local multi-modal AI chapter and key moment indexer.
-12. **Real-Time Voice Dubbing Hook (`pkg/dubbing`)**: Neural speech translation and cloned voice synthesis.
+11. **Vision Video Summarizer (`pkg/visionsummary`)**: Local multimodal scene chapter and key moment indexer.
+12. **Real-Time Voice Dubbing Hook (`pkg/dubbing`)**: Acoustic speech translation and synchronized voice synthesis.
 13. **Actor & Face Recognition Indexer (`pkg/actorindex`)**: Timeline indexer mapping speaker appearances in video streams.
 14. **Acoustic Fingerprint Music ID (`pkg/audioid`)**: Shazam-style acoustic hashing for background track identification.
 15. **Offline Semantic Safety Classifier (`pkg/safety`)**: Zero-cloud privacy-preserving content rating engine.
@@ -60,7 +60,7 @@ This document provides a technical specification and usage guide for all **40 Vi
 27. **TUI Live Flamegraph Profiler (`pkg/profiler`)**: Real-time memory allocation and goroutine inspector.
 28. **Offline Voice-Controlled CLI Listener (`pkg/voicecmd`)**: Hands-free hotword recognition and command dispatch.
 29. **Fuzzy Smart URL Scraper (`pkg/scraper`)**: Automated media stream URL discovery from raw HTML pages.
-30. **Shell Ghost Autocomplete (`pkg/ghostsuggest`)**: AI-powered command history suggestions for zsh/fish/bash.
+30. **Shell Ghost Autocomplete (`pkg/ghostsuggest`)**: Intelligent command history suggestions for zsh/fish/bash.
 
 ---
 

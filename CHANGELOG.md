@@ -7,7 +7,7 @@
 - **Post-Quantum Cryptography**: NIST Kyber-1024 / ML-KEM TLS 1.3 handshake.
 - **Spatial Audio 3D Downmixer**: 5.1/7.1 to Binaural HRTF headphone spatializer.
 - **Pure-Go Audio Stem Splitter**: Isolated Vocals, Drums, Bass, and Other tracks.
-- **Vision-LLM Video Summarizer**: Offline AI chapter generation and keyframe indexing.
+- **Vision Video Summarizer**: Offline automated chapter generation and keyframe indexing.
 - **Hardware YubiKey Vault**: PKCS#11 / Secure Enclave hardware-locked encryption.
 - **Steganographic Media Chaffing**: Hidden payload concealment inside playable MP4s.
 - **BitTorrent v2 (BEP-52)**: SHA-256 Merkle tree chunk verification.

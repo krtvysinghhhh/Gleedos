@@ -36,7 +36,7 @@
 
 ## 🌟 Overview
 
-**Gleedos** is a cutting-edge, zero-dependency universal media streaming and download engine engineered in pure Go. It delivers enterprise-grade performance, post-quantum cryptography, multipath QUIC bonding, pure-Go bitstream demuxing, deep edge AI intelligence, and a rich interactive terminal UI.
+**Gleedos** is a cutting-edge, zero-dependency universal media streaming and download engine engineered in pure Go. It delivers enterprise-grade performance, post-quantum cryptography, multipath QUIC bonding, pure-Go bitstream demuxing, advanced edge analytics, and a rich interactive terminal UI.
 
 Whether running as an ultra-fast CLI tool, a high-throughput gRPC microservice, a background smart-home daemon, or an in-browser WebAssembly engine, Gleedos runs everywhere with **zero external shared library dependencies** (no CGO, no FFmpeg binary requirements).
 
@@ -48,8 +48,8 @@ Whether running as an ultra-fast CLI tool, a high-throughput gRPC microservice, 
                                  GLEEDOS 5.3 ARCHITECTURE
    
     ┌───────────────────────────┐         ┌───────────────────────────┐
-    │  Deep Edge AI & Multimodal│         │ Multipath Bonding & eBPF  │
-    │  • Local Vision-LLM Video │         │  • Wi-Fi + 5G Dual Bonding│
+    │  Edge Analytics & Visual  │         │ Multipath Bonding & eBPF  │
+    │  • Vision Scene Indexing  │         │  • Wi-Fi + 5G Dual Bonding│
     │  • Voice Dubbing & Stems  │         │  • eBPF XDP Zero-Copy Rx  │
     │  • Offline Actor Indexer  │         │  • Kyber-1024 Post-Quantum│
     └─────────────┬─────────────┘         └─────────────┬─────────────┘
@@ -76,7 +76,7 @@ Whether running as an ultra-fast CLI tool, a high-throughput gRPC microservice, 
 - **Multipath QUIC (MP-QUIC)**: Concurrently bonds Wi-Fi, Ethernet, and 5G cellular interfaces for aggregated 2x throughput.
 - **eBPF / XDP Line-Rate Filtering**: Bypasses traditional kernel socket overhead for 40Gbps+ chunk streaming.
 - **Post-Quantum Cryptography (PQC)**: NIST-standardized Kyber-1024 / ML-KEM TLS 1.3 key exchange.
-- **AI CDN Route Predictor**: Real-time exponential moving average latency scoring with autonomous failover pivoting.
+- **Adaptive CDN Route Predictor**: Real-time exponential moving average latency scoring with autonomous failover pivoting.
 - **JA4 / TLS 1.3 Camouflage**: Emulates exact Chrome, Firefox, and Safari network handshakes.
 
 ### 🎬 2. Pure-Go Zero-Dependency Media Engine
@@ -86,8 +86,8 @@ Whether running as an ultra-fast CLI tool, a high-throughput gRPC microservice, 
 - **Spatial Audio Binaural HRTF Downmixer**: Converts 5.1/7.1 surround sound into 3D spatial audio for headphones.
 - **ACES Filmic & Reinhard Dynamic Tonemapping**: Color-accurate HDR10+ dynamic range compression for SDR displays.
 
-### 🧠 3. Deep Edge AI & Multimodal Intelligence
-- **Vision-LLM Video Summarizer**: Offline AI video chapter and visual key moment indexer.
+### 🔍 3. Deep Edge Analytics & Multimodal Extraction
+- **Vision Video Summarizer**: Offline automated video chapter and visual key moment indexer.
 - **Speaker & Face Recognition Indexer**: Visual appearance timeline indexer for actors and speakers.
 - **Acoustic Fingerprint Music ID**: Shazam-style spectrogram peak constellation audio hashing.
 - **Embedded Whisper STT**: Offline frame-accurate `.srt` and `.vtt` subtitle transcription.
@@ -202,12 +202,12 @@ Gleedos/
 │   ├── mpquic/           # Multipath QUIC bonding & subflow scheduler
 │   ├── ebpf/             # Zero-copy kernel network packet ingestion
 │   ├── pqc/              # Kyber-1024 / ML-KEM Post-Quantum Cryptography
-│   ├── cdnroute/         # AI-driven CDN latency scoring & EMA predictor
+│   ├── cdnroute/         # Adaptive CDN latency scoring & EMA predictor
 │   ├── trimmer/          # Frame-accurate lossless keyframe slicer
 │   ├── remuxer/          # Pure-Go ISO MP4 box remuxer
 │   ├── loudness/         # EBU R128 integrated LUFS loudness meter
 │   ├── spatial/          # 5.1/7.1 Surround to Binaural 3D HRTF downmixer
-│   ├── visionllm/        # Local Vision-LLM chapter and visual indexer
+│   ├── visionsummary/    # Visual scene chapter and content indexer
 │   ├── vault/            # AES-256-GCM encrypted local vault storage
 │   ├── steganography/    # MP4 bitstream steganographic payload concealer
 │   ├── torrentv2/        # BitTorrent v2 BEP-52 Merkle tree verification

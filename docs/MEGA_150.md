@@ -100,13 +100,13 @@ This document provides a comprehensive technical catalog of all **150 Systems, I
 
 ---
 
-### 🧠 5. Deep Edge AI, Multimodal Extraction & Audio DSP (81–100)
-81. Local Vision-LLM video summarizer & keyframe captioner.
+### 🔍 5. Deep Edge Analytics, Multimodal Extraction & Audio DSP (81–100)
+81. Local video summarizer & keyframe captioner.
 82. Keyframe scene change color histogram detector.
 83. Face recognition & speaker video timeline indexer.
 84. Shazam-style acoustic peak constellation music identifier.
 85. Offline Whisper speech-to-text transcript generator.
-86. Real-time neural voice translation & dubbing hook.
+86. Real-time voice translation & dubbing hook.
 87. Overlapping speaker interval merger.
 88. Crowd-sourced SponsorBlock segment auto-skipper.
 89. Offline semantic safety & NSFW content classifier.
@@ -114,7 +114,7 @@ This document provides a comprehensive technical catalog of all **150 Systems, I
 91. Dead-air and silence interval detector and trimmer.
 92. Pure-Go spectral gating audio de-noiser.
 93. Automatic video chapter marker generator.
-94. Neural 4K super-resolution upscaler hook (Real-ESRGAN/Waifu2x).
+94. 4K super-resolution upscaler hook (Real-ESRGAN/Waifu2x).
 95. Sub-millisecond Voice Activity Detector (VAD).
 96. Audio Dynamic Range Compressor (DRC) & peak limiter.
 97. Video dominant color palette & hex gradient extractor.

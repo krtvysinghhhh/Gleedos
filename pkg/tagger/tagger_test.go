@@ -50,7 +50,7 @@ func TestInjectID3Tag(t *testing.T) {
 
 	meta := Metadata{
 		Title:   "Gleedos Anthem",
-		Artist:  "DeepMind",
+		Artist:  "Gleedos Audio",
 		Comment: "https://gleedos.local",
 	}
 

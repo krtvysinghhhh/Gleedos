@@ -48,9 +48,9 @@ This document provides a technical specification and usage guide for all **35 Ne
 
 ---
 
-## 🤖 3. AI Automation & Semantic Extraction
+## 🔍 3. Automated Semantic Extraction & Processing
 
-### 11. Whisper AI Transcript Generator (`pkg/transcribe`)
+### 11. Whisper Transcript Generator (`pkg/transcribe`)
 - **Purpose**: Generates frame-accurate `.srt` and `.vtt` subtitles from audio streams offline.
 
 ### 12. SponsorBlock Segment Stripper (`pkg/sponsorblock`)
@@ -59,8 +59,8 @@ This document provides a technical specification and usage guide for all **35 Ne
 ### 13. Smart Chapter Recognition (`pkg/chapters`)
 - **Purpose**: Generates structured FFmetadata chapter markers for media players.
 
-### 14. Neural Frame Upscaler Hook (`pkg/upscale`)
-- **Purpose**: Automated pipeline bridge for Real-ESRGAN and Waifu2x 4K AI upscaling.
+### 14. Super-Resolution Frame Upscaler Hook (`pkg/upscale`)
+- **Purpose**: Automated pipeline bridge for Real-ESRGAN and Waifu2x 4K super-resolution upscaling.
 
 ### 15. Aesthetic Keyframe Thumbnail Extractor (`pkg/thumbnailer`)
 - **Purpose**: Evaluates candidate video frames by contrast and subject presence to extract the highest quality cover art.

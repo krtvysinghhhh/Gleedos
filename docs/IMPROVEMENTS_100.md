@@ -6,7 +6,7 @@ This document enumerates the **100 Core Enhancements** integrated into **Gleedos
 1. Multipath QUIC with round-robin and bandwidth-delay product subflow load balancing.
 2. eBPF / XDP zero-copy socket bypass packet filtering for line-rate 40Gbps streaming.
 3. Post-Quantum Kyber-1024 / ML-KEM TLS 1.3 cryptographic key exchange.
-4. AI-Driven CDN edge latency scoring via exponential moving averages (EMA).
+4. Adaptive CDN edge latency scoring via exponential moving averages (EMA).
 5. Dynamic TCP BDP window scaling and adaptive micro-chunk streaming.
 6. DNS-over-TLS (DoT) and Encrypted Client Hello (ECH) multi-resolver pools.
 7. TLS JA4 / JA3 browser fingerprint camouflage engine (Chrome, Firefox, Safari).
@@ -26,10 +26,10 @@ This document enumerates the **100 Core Enhancements** integrated into **Gleedos
 19. AV1 / VVC (H.266) pure-Go bitstream syntax validator.
 20. HDR10 and Dolby Vision metadata pass-through injector.
 
-### 🧠 3. Deep Edge AI & Multimodal Intelligence (21-30)
-21. Local Vision-LLM video summarizer & key moment indexer.
+### 🔍 3. Deep Edge Analytics & Multimodal Extraction (21-30)
+21. Local video summarizer & key moment indexer.
 22. Video keyframe scene change histogram detector.
-23. Real-time neural voice translation & cloned dubbing synthesizer.
+23. Real-time voice translation & dubbing synthesizer.
 24. Speaker & face recognition video timeline appearance indexer.
 25. Overlapping speaker interval time merger.
 26. Acoustic fingerprint music identifier (Shazam-style DSP).

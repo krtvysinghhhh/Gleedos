@@ -1,4 +1,4 @@
-package visionllm
+package visionsummary
 
 import "testing"
 
