@@ -12,13 +12,13 @@
 
 ### *The High-Performance, Zero-Dependency Autonomous Media Engine & Streaming Ecosystem*
 
-[![Build Status](https://github.com/krtvyasingh/Gleedos/actions/workflows/build.yml/badge.svg)](https://github.com/krtvyasingh/Gleedos/actions/workflows/build.yml)
-[![Security Audit](https://github.com/krtvyasingh/Gleedos/actions/workflows/security.yml/badge.svg)](https://github.com/krtvyasingh/Gleedos/actions/workflows/security.yml)
-[![Benchmarks](https://github.com/krtvyasingh/Gleedos/actions/workflows/bench.yml/badge.svg)](https://github.com/krtvyasingh/Gleedos/actions/workflows/bench.yml)
-[![Release](https://img.shields.io/github/v/release/krtvyasingh/Gleedos?style=flat-square&color=blue)](https://github.com/krtvyasingh/Gleedos/releases)
+[![Build Status](https://github.com/krtvysinghhhh/Gleedos/actions/workflows/build.yml/badge.svg)](https://github.com/krtvysinghhhh/Gleedos/actions/workflows/build.yml)
+[![Security Audit](https://github.com/krtvysinghhhh/Gleedos/actions/workflows/security.yml/badge.svg)](https://github.com/krtvysinghhhh/Gleedos/actions/workflows/security.yml)
+[![Benchmarks](https://github.com/krtvysinghhhh/Gleedos/actions/workflows/bench.yml/badge.svg)](https://github.com/krtvysinghhhh/Gleedos/actions/workflows/bench.yml)
+[![Release](https://img.shields.io/github/v/release/krtvysinghhhh/Gleedos?style=flat-square&color=blue)](https://github.com/krtvysinghhhh/Gleedos/releases)
 [![Go Version](https://img.shields.io/badge/Go-1.22%20%7C%201.23-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Zero Dependency](https://img.shields.io/badge/Dependencies-0%20Pure%20Go-success?style=flat-square)](https://github.com/krtvyasingh/Gleedos)
+[![Zero Dependency](https://img.shields.io/badge/Dependencies-0%20Pure%20Go-success?style=flat-square)](https://github.com/krtvysinghhhh/Gleedos)
 
 <p align="center">
   <a href="#-key-features">Key Features</a> •
